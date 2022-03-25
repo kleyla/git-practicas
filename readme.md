@@ -13,3 +13,4 @@ Primer parrafo
 `git log --oneline`
 
 `git push origin main`
+`git clone https://github.com/kleyla/git-practicas.git`
