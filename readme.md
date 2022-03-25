@@ -14,3 +14,6 @@ Primer parrafo
 
 `git push origin main`
 `git clone https://github.com/kleyla/git-practicas.git`
+
+Crear y cambiar a nueva rama
+`git checkout -b rama-silvia`
